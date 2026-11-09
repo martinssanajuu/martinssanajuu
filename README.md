@@ -3,22 +3,23 @@
 </p><p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=21&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=600&lines=Desenvolvedora+de+Software;Transformando+ideias+em+c%C3%B3digo;Sempre+aprendendo+e+evoluindo" alt="Animação de texto" />
 </p>👾 SYSTEM PROFILE
-Olá! Sou Ana Júlia, desenvolvedora de software. Este é meu espaço para compartilhar projetos, estudos e minha evolução na tecnologia. Gosto de transformar ideias em soluções, explorar ferramentas e aprender algo novo a cada projeto.
-- Foco: desenvolvimento de aplicações e soluções digitais
-- Status: sempre aprendendo e evoluindo
-- Modo de operação: criatividade, lógica e código
+Olá! Sou Ana Julia, desenvolvedora de software. Este é meu espaço para compartilhar projetos, estudos e minha evolução na tecnologia. Gosto de transformar ideias em soluções, explorar ferramentas e aprender algo novo a cada projeto com foco em Desenvolvimento web e mobile.
 <br><br>
 💻 TECH STACK
 <br><br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, PHP, Python, Git, GitHub e VS Code" />
 </p>🚀 PROJECTS <br> <br>
-Projeto	Sobre
 TeachUp	Rede social voltada ao aprendizado.
+<br>
 Streaming	Plataforma para cadastro e organização de filmes e séries.
+<br>
 Blog	Blog de notícias esportivas desenvolvido com HTML e CSS.
+<br>
 Portfolio	Projeto de portfólio.
+<br>
 Python Essentials	Repositório de estudos e exercícios em Python.
+<br>
 TechBot	Projeto de desenvolvimento de bot.
 
 <br><br>
