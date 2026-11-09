@@ -36,5 +36,6 @@ TechBot	Projeto de desenvolvimento de bot.
   </a>
 </p><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:4b0082,100:090014&height=90&section=footer" width="100%" alt="" />
+ <br> <br>
   <em>“Code the future. Build beyond limits.”</em>
 </p>
